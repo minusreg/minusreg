@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @minusreg
+- 👀 I’m interested in web developement and coding in general.
+- 🌱 I’m currently learning html/css/javascript.
+- 📫 How to reach me: Check my Discord minusreg#7693
